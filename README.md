@@ -1,4 +1,4 @@
-# Exercício de Filtragem de Entidadedes Nomeadas com Linguagem Scala e Apache Spark
+# Exercício de Filtragem de Entidades Nomeadas com Linguagem Scala e Apache Spark
 ## Objetivo
 O objetivo é extrair de um texto (livro) as principais entidades nomeadas (nomes próprios) e contar a ocorrência de cada entidade. Quais nomes aparecem com mais frequência no texto? Essa é normalmente uma das primeiras perguntas feitas em Processamento de Linguagem Natural (NLP) de grandes conjuntos de texto e o resultado é usado para diversas tarefas em NLP.
 
